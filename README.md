@@ -34,7 +34,7 @@
 
 |![](https://img.shields.io/badge/C-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/C++-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|
 |---|---|---|
-|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Jupyter-342B029.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|![](https://img.shields.io/badge/Linux-342B029.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
+|![](https://img.shields.io/badge/Linux-342B029.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Jupyter-342B029.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
 |![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Pandas-777BB4?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Plotly-777BB4?style=for-the-badge&logo=plotly&logoColor=white)| 
 ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|![](https://img.shields.io/badge/TensorFlow-F7931E?style=for-the-badge&logo=TensorFlow&logoColor=white)|![](https://img.shields.io/badge/PyTorch-F7931E?style=for-the-badge&logo=Keras&logoColor=white)|
 
