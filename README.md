@@ -12,9 +12,9 @@
 <h1>Get in Touch! 📬</h1>
 <Br>
 <p>
-  <a href="https://www.github.com/filipemedeiross" target="blank"><img align="center" src="https://img.shields.io/badge/Filipe-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/filipe-medeiros-2b5a21246/" target="blank"><img align="center" src="https://img.shields.io/badge/Filipe Medeiros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:filipemedeiros2013@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/filipemedeiros2013@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;
+  <a href="https://www.github.com/filipemedeiross" target="blank"><img align="center" src="https://img.shields.io/badge/Filipe-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
