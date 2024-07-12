@@ -3,7 +3,7 @@
 ### About Me! 😎
 
 - 🏫: I'm an undergraduate Data Science and Artificial Intelligence student at UFPB.
-- 🔭: I'm working with anti-money laundering at B3.
+- 🔭: I'm working with anti-money laundering at [B3](https://www.b3.com.br/pt_br/para-voce).
 - 🌱: I’m currently learning Statistics, Neural Networks and Deep Learning.
 - 💬: Ask me about Data Analysis and Machine Learning algorithms.
 
