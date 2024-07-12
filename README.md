@@ -23,7 +23,7 @@
 <h1>Skills I have! 🤸‍♂</h1>
 <Br>
   
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Optimization-red?style=for-the-badge)|
+|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervised%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervised%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Optimization-red?style=for-the-badge)|
 |---|---|---|---|---|
 
 <Br>
