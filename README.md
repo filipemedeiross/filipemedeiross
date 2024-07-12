@@ -75,11 +75,10 @@
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=hacker_rank)](https://github.com/filipemedeiross/hacker_rank)
 <Br>
-  
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=filipemedeiross&show_icons=true&theme=merko)](https://github.com/filipemedeiross/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemedeiross&layout=compact&theme=merko)](https://github.com/filipemedeiross/github-readme-stats)
 
 <Br>
 <hr>
 <Br>
-<h1>Thank You! 🤵 </h1>
+<h1>Github Stats!</h1>
 <Br>
+[![Filipe's github stats](https://github-readme-stats.vercel.app/api?username=filipemedeiross&show_icons=true&theme=merko)](https://github.com/filipemedeiross/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemedeiross&layout=compact&theme=merko)](https://github.com/filipemedeiross/github-readme-stats)
