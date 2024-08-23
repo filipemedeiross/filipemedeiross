@@ -74,12 +74,4 @@
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=hacker_rank)](https://github.com/filipemedeiross/hacker_rank)
-<Br>
-
-<Br>
-<hr>
-<Br>
-<h1>Github Stats!</h1>
-<Br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemedeiross&layout=compact&theme=merko)](https://github.com/filipemedeiross/github-readme-stats)
+<Br>]
