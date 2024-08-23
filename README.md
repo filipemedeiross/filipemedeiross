@@ -74,4 +74,4 @@
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=hacker_rank)](https://github.com/filipemedeiross/hacker_rank)
-<Br>]
+<Br>
