@@ -65,7 +65,7 @@
 <h1>Computer Vision Projects!</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=cv_solving_sudoku)](https://github.com/filipemedeiross/hoax)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=cv_solving_sudoku)](https://github.com/filipemedeiross/cv_solving_sudoku)
 
 <Br>
 <hr>
