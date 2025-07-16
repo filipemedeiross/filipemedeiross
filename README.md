@@ -2,7 +2,8 @@
 
 ### About Me! 😎
 
-- 🏫: I'm an undergraduate Data Science and Artificial Intelligence student at UFPB.
+- 🏫: I hold a Bachelor's degree in Data Science and Artificial Intelligence from UFPB.
+- 🎓: I'm currently a Master's student in Methodology and Techniques of Computing at UFPB.
 - 🌱: I’m currently learning Statistics, Neural Networks and Deep Learning.
 - 💬: Ask me about Data Analysis and Machine Learning algorithms.
 
