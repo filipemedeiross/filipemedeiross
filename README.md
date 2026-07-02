@@ -44,7 +44,7 @@
 <h1>Game Projects!</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=solving_8_puzzle)](https://github.com/filipemedeiross/solving_8_puzzle)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=solving_8_puzzle&cache_seconds=86400)](https://github.com/filipemedeiross/solving_8_puzzle)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=solving_sudoku)](https://github.com/filipemedeiross/solving_sudoku)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=solving_maze)](https://github.com/filipemedeiross/solving_maze)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=solving_tapatan)](https://github.com/filipemedeiross/solving_tapatan)
