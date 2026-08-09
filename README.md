@@ -1,85 +1,67 @@
-# Hi there 👋, Filipe here.
+# Filipe de Medeiros
 
-### About Me! 😎
+Master's student in **Methodology and Techniques of Computing** at the Federal University of Paraíba (UFPB), with a Bachelor's degree in **Data Science and Artificial Intelligence**.
 
-- 🏫: I hold a Bachelor's degree in Data Science and Artificial Intelligence from UFPB.
-- 🎓: I'm currently a Master's student in Methodology and Techniques of Computing at UFPB.
-- 🌱: I’m currently learning Statistics, Neural Networks and Deep Learning.
-- 💬: Ask me about Data Analysis and Machine Learning algorithms.
+My current research focuses on **Combinatorial Optimization** and **Interpretability in Operations Research**, particularly on understanding and explaining the behavior of metaheuristics and the information contained in their search processes.
 
-<hr>
-<Br>
-<h1>Get in Touch! 📬</h1>
-<Br>
-<p>
-  <a href="https://www.linkedin.com/in/filipe-medeiros-2b5a21246/" target="blank"><img align="center" src="https://img.shields.io/badge/Filipe Medeiros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
-  <a href="mailto:filipemedeiros2013@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/filipemedeiros2013@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;
-  <a href="https://www.github.com/filipemedeiross" target="blank"><img align="center" src="https://img.shields.io/badge/Filipe-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-  
-<Br>
-<hr>
-<Br>
-<h1>Skills I have! 🤸‍♂</h1>
-<Br>
-  
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervised%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervised%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Optimization-red?style=for-the-badge)|
-|---|---|---|---|---|
+## Research Interests
 
-<Br>
-<hr>
-<Br>
-<h1>Tools I use! 🛠️</h1>
-<Br>
+* Combinatorial Optimization
+* Operations Research
+* Metaheuristics
+* Interpretability and Explainability
+* Machine Learning
+* Graph Theory and Related Algorithms
 
-|![](https://img.shields.io/badge/C-FFD43B?style=for-the-badge&logo=c&logoColor=darkgreen)|![](https://img.shields.io/badge/C++-FFD43B?style=for-the-badge&logo=c%2B%2B&logoColor=darkgreen)|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|
-|---|---|---|
-|![](https://img.shields.io/badge/Linux-342B029.svg?&style=for-the-badge&logo=linux&logoColor=white)|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Jupyter-342B029.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
-|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Pandas-777BB4?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Plotly-777BB4?style=for-the-badge&logo=plotly&logoColor=white)| 
-![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|![](https://img.shields.io/badge/TensorFlow-F7931E?style=for-the-badge&logo=TensorFlow&logoColor=white)|![](https://img.shields.io/badge/PyTorch-F7931E?style=for-the-badge&logo=Keras&logoColor=white)|
+## Education
 
-<Br>
-<hr>
-<Br>
-<h1>Game Projects!</h1>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=solving_8_puzzle&cache_seconds=86400)](https://github.com/filipemedeiross/solving_8_puzzle)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=solving_sudoku)](https://github.com/filipemedeiross/solving_sudoku)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=solving_maze)](https://github.com/filipemedeiross/solving_maze)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=solving_tapatan)](https://github.com/filipemedeiross/solving_tapatan)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=solving_flappy_bird)](https://github.com/filipemedeiross/solving_flappy_bird)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=solving_chrome_dinosaur)](https://github.com/filipemedeiross/solving_chrome_dinosaur)
+**M.Sc. in Methodology and Techniques of Computing**
+Federal University of Paraíba (UFPB) — *in progress*
 
-<Br>
-<hr>
-<Br>
-<h1>Machine Learning Projects!</h1>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=hoax)](https://github.com/filipemedeiross/hoax)
+**B.Sc. in Data Science and Artificial Intelligence**
+Federal University of Paraíba (UFPB)
 
-<Br>
-<hr>
-<Br>
-<h1>Computer Vision Projects!</h1>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=cv_solving_sudoku)](https://github.com/filipemedeiross/cv_solving_sudoku)
+## Projects
 
-<Br>
-<hr>
-<Br>
-<h1>Optimization Projects!</h1>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=solving_vsbppc)](https://github.com/filipemedeiross/solving_vsbppc)
+### Game Projects
 
-<Br>
-<hr>
-<Br>
-<h1>Coding Projects!</h1>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=filipemedeiross&repo=hacker_rank)](https://github.com/filipemedeiross/hacker_rank)
-<Br>
+| Project                                                                                   | Description                                                                     |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [**solving_8_puzzle**](https://github.com/filipemedeiross/solving_8_puzzle)               | Solving the 8-puzzle through search strategies and machine learning techniques. |
+| [**solving_sudoku**](https://github.com/filipemedeiross/solving_sudoku)                   | Solving Sudoku through CSP-based search.                                        |
+| [**solving_maze**](https://github.com/filipemedeiross/solving_maze)                       | Solving a partially observable maze through online search.                      |
+| [**solving_tapatan**](https://github.com/filipemedeiross/solving_tapatan)                 | Solving the Tapatan game through adversarial search.                            |
+| [**solving_flappy_bird**](https://github.com/filipemedeiross/solving_flappy_bird)         | Solving Flappy Bird with supervised learning techniques.                        |
+| [**solving_chrome_dinosaur**](https://github.com/filipemedeiross/solving_chrome_dinosaur) | Solving Chrome Dinosaur with supervised learning techniques.                    |
+| [**number_sums**](https://github.com/filipemedeiross/number_sums)                         | Solving the Number Sums game using CSP-based search.                            |
+
+### Machine Learning Projects
+
+| Project                                                                                                             | Description                                                                         |
+| ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [**hoax**](https://github.com/filipemedeiross/hoax)                                                                 | Machine learning techniques for environmental emergency information classification. |
+| [**company_shareholder_based_clustering**](https://github.com/filipemedeiross/company_shareholder_based_clustering) | Mapping businesses through clustering based on shared ownership and stakeholders.   |
+
+### Computer Vision Projects
+
+| Project                                                                       | Description                                      |
+| ----------------------------------------------------------------------------- | ------------------------------------------------ |
+| [**cv_solving_sudoku**](https://github.com/filipemedeiross/cv_solving_sudoku) | Solving Sudoku using computer vision techniques. |
+
+### Optimization Projects
+
+| Project                                                                 | Description                                                                                 |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [**xopt**](https://github.com/filipemedeiross/xopt)                     | Research project on explainability of metaheuristics applied to combinatorial optimization. |
+| [**solving_vsbppc**](https://github.com/filipemedeiross/solving_vsbppc) | Application of heuristic methods to the Variable-Sized Bin Packing Problem with Conflicts.  |
+
+### Coding Projects
+
+| Project                                                           | Description                                                |
+| ----------------------------------------------------------------- | ---------------------------------------------------------- |
+| [**hacker_rank**](https://github.com/filipemedeiross/hacker_rank) | Solutions to programming problems available on HackerRank. |
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Filipe%20Medeiros-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/filipe-medeiros-2b5a21246/)
+[![GitHub](https://img.shields.io/badge/GitHub-filipemedeiross-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/filipemedeiross)
