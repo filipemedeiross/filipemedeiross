@@ -29,11 +29,11 @@ Federal University of Paraíba (UFPB)
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | [**solving_8_puzzle**](https://github.com/filipemedeiross/solving_8_puzzle)               | Solving the 8-puzzle through search strategies and machine learning techniques. |
 | [**solving_sudoku**](https://github.com/filipemedeiross/solving_sudoku)                   | Solving Sudoku through CSP-based search.                                        |
+| [**number_sums**](https://github.com/filipemedeiross/number_sums)                         | Solving the Number Sums game using CSP-based search.                            |
 | [**solving_maze**](https://github.com/filipemedeiross/solving_maze)                       | Solving a partially observable maze through online search.                      |
 | [**solving_tapatan**](https://github.com/filipemedeiross/solving_tapatan)                 | Solving the Tapatan game through adversarial search.                            |
 | [**solving_flappy_bird**](https://github.com/filipemedeiross/solving_flappy_bird)         | Solving Flappy Bird with supervised learning techniques.                        |
 | [**solving_chrome_dinosaur**](https://github.com/filipemedeiross/solving_chrome_dinosaur) | Solving Chrome Dinosaur with supervised learning techniques.                    |
-| [**number_sums**](https://github.com/filipemedeiross/number_sums)                         | Solving the Number Sums game using CSP-based search.                            |
 
 ### Machine Learning Projects
 
@@ -52,8 +52,8 @@ Federal University of Paraíba (UFPB)
 
 | Project                                                                 | Description                                                                                 |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [**xopt**](https://github.com/filipemedeiross/xopt)                     | Research project on explainability of metaheuristics applied to combinatorial optimization. |
 | [**solving_vsbppc**](https://github.com/filipemedeiross/solving_vsbppc) | Application of heuristic methods to the Variable-Sized Bin Packing Problem with Conflicts.  |
+| [**xopt**](https://github.com/filipemedeiross/xopt)                     | Research project on explainability of metaheuristics applied to combinatorial optimization. |
 
 ### Coding Projects
 
