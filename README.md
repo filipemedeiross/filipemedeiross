@@ -44,9 +44,9 @@ Federal University of Paraíba (UFPB)
 
 ### NLP Projects
 
-| Project                                                                                     | Description                                                                                              |
-| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [**efficient-portuguese-ner**](https://github.com/filipemedeiross/efficient-portuguese-ner) | Exploring the accuracy–efficiency trade-off in portuguese named entity recognition using compact models. |
+| Project                                                                                        | Description                                                                                              |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [**efficient-portuguese-ner**](https://github.com/filipemedeiross/efficient-portuguese-ner)    | Exploring the accuracy–efficiency trade-off in portuguese named entity recognition using compact models. |
 
 ### Computer Vision Projects
 
