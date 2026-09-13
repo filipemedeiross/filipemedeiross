@@ -37,10 +37,9 @@ Federal University of Paraíba (UFPB)
 
 ### Machine Learning Projects
 
-| Project                                                                                                             | Description                                                                         |
-| ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [**hoax**](https://github.com/filipemedeiross/hoax)                                                                 | Machine learning techniques for environmental emergency information classification. |
-| [**company_shareholder_based_clustering**](https://github.com/filipemedeiross/company_shareholder_based_clustering) | Mapping businesses through clustering based on shared ownership and stakeholders.   |
+| Project                                               | Description                                                                         |
+| ------------------------------------------------------| ----------------------------------------------------------------------------------- |
+| [**hoax**](https://github.com/filipemedeiross/hoax)   | Machine learning techniques for environmental emergency information classification. |
 
 ### NLP Projects
 
@@ -60,6 +59,13 @@ Federal University of Paraíba (UFPB)
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | [**solving_vsbppc**](https://github.com/filipemedeiross/solving_vsbppc) | Application of heuristic methods to the Variable-Sized Bin Packing Problem with Conflicts.  |
 | [**xopt**](https://github.com/filipemedeiross/xopt)                     | Research project on explainability of metaheuristics applied to combinatorial optimization. |
+
+
+### Graph Theory Projects
+
+| Project                                                                                                             | Description                                                                          |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [**company_shareholder_based_clustering**](https://github.com/filipemedeiross/company_shareholder_based_clustering) | Mapping businesses through graph-based clustering of shared ownership relationships. |
 
 ### Coding Projects
 
