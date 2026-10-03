@@ -55,10 +55,11 @@ Federal University of Paraíba (UFPB)
 
 ### Optimization Projects
 
-| Project                                                                 | Description                                                                                 |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [**solving_vsbppc**](https://github.com/filipemedeiross/solving_vsbppc) | Application of heuristic methods to the Variable-Sized Bin Packing Problem with Conflicts.  |
-| [**xopt**](https://github.com/filipemedeiross/xopt)                     | Research project on explainability of metaheuristics applied to combinatorial optimization. |
+| Project                                                                                                   | Description                                                                                         |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [**network-resilience-optimization**](https://github.com/filipemedeiross/network-resilience-optimization) | Interactive application for exploring network resilience through graph-based optimization problems. |
+| [**solving_vsbppc**](https://github.com/filipemedeiross/solving_vsbppc)                                   | Application of heuristic methods to the Variable-Sized Bin Packing Problem with Conflicts.          |
+| [**xopt**](https://github.com/filipemedeiross/xopt)                                                       | Research project on explainability of metaheuristics applied to combinatorial optimization.         |
 
 
 ### Graph Theory Projects
